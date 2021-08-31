@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Xwr4eWCVdQ4mmecLSdUeXt91cpocsQj6SKK1iP02nhsEMQKswochhCzQbyK10VvBml4ZjcdE2G5bqA/c1u10w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\migue\\OneDrive\\Documentos\\Arquivos Rafael\\LojaVirtual\\src\\services\\LJ.Catalago.API\\LJ.Catalago.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}

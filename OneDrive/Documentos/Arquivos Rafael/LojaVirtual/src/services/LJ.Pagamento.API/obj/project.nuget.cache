@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hivZADAVmcmowWdIrrJWO/N4hZH4jSf5pF7VfysWCi04rhqUD0MdgvXTDkmZpM7eOgJwYJzEkgxhBf3M47NAaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\migue\\OneDrive\\Documentos\\Arquivos Rafael\\LojaVirtual\\src\\services\\LJ.Pagamento.API\\LJ.Pagamento.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}
