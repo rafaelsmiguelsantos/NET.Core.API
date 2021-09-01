@@ -1,9 +1,9 @@
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\building blocks\LJ.Core\bin\Debug\netcoreapp3.1\LJ.Core.deps.json
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\building blocks\LJ.Core\bin\Debug\netcoreapp3.1\LJ.Core.dll
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\building blocks\LJ.Core\bin\Debug\netcoreapp3.1\LJ.Core.pdb
-C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\building blocks\LJ.Core\obj\Debug\netcoreapp3.1\LJ.Core.csproj.AssemblyReference.cache
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\building blocks\LJ.Core\obj\Debug\netcoreapp3.1\LJ.Core.AssemblyInfoInputs.cache
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\building blocks\LJ.Core\obj\Debug\netcoreapp3.1\LJ.Core.AssemblyInfo.cs
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\building blocks\LJ.Core\obj\Debug\netcoreapp3.1\LJ.Core.csproj.CoreCompileInputs.cache
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\building blocks\LJ.Core\obj\Debug\netcoreapp3.1\LJ.Core.dll
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\building blocks\LJ.Core\obj\Debug\netcoreapp3.1\LJ.Core.pdb
+C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\building blocks\LJ.Core\obj\Debug\netcoreapp3.1\LJ.Core.csproj.AssemblyReference.cache

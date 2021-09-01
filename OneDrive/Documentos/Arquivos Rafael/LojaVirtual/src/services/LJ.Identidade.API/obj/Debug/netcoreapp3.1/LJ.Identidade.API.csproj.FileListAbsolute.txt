@@ -19,6 +19,7 @@ C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.I
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
@@ -42,7 +43,11 @@ C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.I
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
@@ -55,7 +60,6 @@ C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.I
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\obj\Debug\netcoreapp3.1\LJ.Identidade.API.csproj.AssemblyReference.cache
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\obj\Debug\netcoreapp3.1\LJ.Identidade.API.AssemblyInfoInputs.cache
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\obj\Debug\netcoreapp3.1\LJ.Identidade.API.AssemblyInfo.cs
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\obj\Debug\netcoreapp3.1\LJ.Identidade.API.csproj.CoreCompileInputs.cache
@@ -69,8 +73,4 @@ C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.I
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\obj\Debug\netcoreapp3.1\LJ.Identidade.API.dll
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\obj\Debug\netcoreapp3.1\LJ.Identidade.API.pdb
 C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\obj\Debug\netcoreapp3.1\LJ.Identidade.API.genruntimeconfig.cache
-C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
-C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\migue\OneDrive\Documentos\Arquivos Rafael\LojaVirtual\src\services\LJ.Identidade.API\obj\Debug\netcoreapp3.1\LJ.Identidade.API.csproj.AssemblyReference.cache
